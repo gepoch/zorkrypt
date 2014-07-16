@@ -1,6 +1,6 @@
 # zorkrypt
 
-An exploration of the Diffie-Helman key exchange algorithm in the medium of a
+An exploration of the Diffie-Hellman key exchange algorithm in the medium of a
 command line adventure game.
 
 Basically, this just takes the steps involved in D.H. key exchange, and breaks
