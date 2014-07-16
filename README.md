@@ -13,4 +13,8 @@ grip of the process on a low level. Imagine that!
 
 ## Some stuff to do:
 
+- Play as Alice.
+- Play as Bob.
+- Play as Eve.
+- Implement the xyzzy cheat code!
 - Multiple trapdoor functions.
